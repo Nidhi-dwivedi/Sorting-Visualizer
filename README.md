@@ -21,9 +21,9 @@ A dynamic visual representation of popular sorting algorithms built using Python
 
 ## How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nidhi-dwivedi/Sorting-Visualizer.git
-   ```
+```bash
+git clone https://github.com/Nidhi-dwivedi/Sorting-Visualizer.git
+```
 
 2.Navigate to the project directory:
   ```bash
@@ -41,13 +41,13 @@ python main.py
 ```
 
 ## Controls
-# Use the Tkinter interface to:
+ **Use the Tkinter interface to:**
 - Set the array size.
 - Choose the sorting algorithm.
 - Adjust the visualization speed.
 - Toggle grid lines on/off.
-# Click the "Start" button to begin the visualization.
-# Click the "Quit" button to exit.
+ **Click the "Start" button to begin the visualization.**
+ **click the "Quit" button to exit.**
 
 ## File Structure
 - main.py: The main entry point that handles the GUI and sorting logic.
