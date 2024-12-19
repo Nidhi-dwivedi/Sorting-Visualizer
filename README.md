@@ -41,13 +41,13 @@ python main.py
 ```
 
 ## Controls
- **Use the Tkinter interface to:**
-- Set the array size.
-- Choose the sorting algorithm.
-- Adjust the visualization speed.
-- Toggle grid lines on/off.
- **Click the "Start" button to begin the visualization.**
- **click the "Quit" button to exit.**
+-**Use the Tkinter interface to:**
+ - Set the array size.
+ - Choose the sorting algorithm.
+ - Adjust the visualization speed.
+ - Toggle grid lines on/off.
+- **Click the "Start" button to begin the visualization.**
+- **click the "Quit" button to exit.**
 
 ## File Structure
 - main.py: The main entry point that handles the GUI and sorting logic.
